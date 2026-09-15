@@ -1,0 +1,11 @@
+{
+  "name": "velo-tools-guide-ko",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node tools/build-site.cjs"
+  },
+  "devDependencies": {
+    "marked": "17.0.5"
+  }
+}
